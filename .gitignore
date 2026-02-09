@@ -1,0 +1,9 @@
+# Secrets
+.env
+*.env
+secrets/
+**/*.key
+**/*.pem
+
+# OS / Editor
+.DS_Store
